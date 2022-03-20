@@ -35,7 +35,7 @@
     justify-content:space-between;
     background-color: #ffffff;
     padding: 80px 30px 50px;
-    margin-top: -70px;/*em vez de colocar, ira tirar, assim aumentando a margim para cima*/ 
+    margin-top: -70px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }

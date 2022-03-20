@@ -9,7 +9,7 @@
     background-color: #6b727a;
     color: #ffffff;
     padding: 0 5px;
-    cursor: pointer;/*o seta do mouse, vai virar uma mao, quando passar em cima*/
+    cursor: pointer;
     border-top-left-radius: 30px ;
     border-bottom-left-radius: 30px;
     min-height: 70px;
@@ -17,7 +17,7 @@
     transition: 0.15s ease-in-out;
 }
 .listagem .pokemon:hover{
-    transform: scale(1.05);/*quando passa o mouse em cima do elemento, ele aumenta o elemento um pouco*/
+    transform: scale(1.05);
 }
 .listagem .pokemon img{
     width: 25%;
