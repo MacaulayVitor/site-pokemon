@@ -57,11 +57,14 @@
 .cartao-pokemon.aberto{
     display: block;
 }
+.codigo{
+    font-size: 1.7em;
+}
 .tipo-fogo{
     background-color: #ed8a8b;
 }
 .tipo-eletrico{
-    background-color: #fcc719
+    background-color: #fcc719;
 }
 .tipo-agua{
     background-color: #76befe;
