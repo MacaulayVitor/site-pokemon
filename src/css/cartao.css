@@ -3,6 +3,7 @@
     display: none;
     border-radius: 10px;
 }
+
 .cartao-pokemon .cartao-topo{
     padding: 30px 40px 0;
 }
@@ -56,9 +57,6 @@
 }
 .cartao-pokemon.aberto{
     display: block;
-}
-.codigo{
-    font-size: 1.7em;
 }
 .tipo-fogo{
     background-color: #ed8a8b;
